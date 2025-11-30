@@ -1,0 +1,4 @@
+cd /path/to/oee-dashboard
+echo "" > requirements.txt
+echo "" > .gitignore
+echo "" > README.md
