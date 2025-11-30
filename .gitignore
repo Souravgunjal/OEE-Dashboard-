@@ -1,4 +1,7 @@
-cd /path/to/oee-dashboard
-echo "" > requirements.txt
-echo "" > .gitignore
-echo "" > README.md
+__pycache__/
+*.pyc
+.env
+.vscode/
+.keys/
+.DS_Store
+
